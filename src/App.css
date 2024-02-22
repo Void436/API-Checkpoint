@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+
+#mod{
+  text-align: center !important;
+}
+
+#mod h1{
+  text-align: center !important;
+  color: darkslateblue;
+}
+
+#uuu{
+  color: blueviolet;
+}
